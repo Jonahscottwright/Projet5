@@ -1,7 +1,7 @@
 # Projet 5 - Java - BoulderDash
 
 Groupe de projet: 
-* Lucas : 
+* Lucas : Tarmire         
 * Jonah : jonahscottwright
-* Arnaud S :
-* Arnaud P :
+* Arnaud S : Wolflix
+* Arnaud P : Redrix
