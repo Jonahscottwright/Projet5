@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/main/target/classes/META-INF/maven/jpublankproject/main/pom.xml" />
+        <option value="$PROJECT_DIR$/main/target/classes/META-INF/maven/jpublankproject/main/pom.properties" />
+        <option value="$PROJECT_DIR$/main/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/main/dependency-reduced-pom.xml" />
+        <option value="$PROJECT_DIR$/view/target/classes/META-INF/maven/jpublankproject/view/pom.xml" />
+        <option value="$PROJECT_DIR$/view/target/classes/META-INF/maven/jpublankproject/view/pom.properties" />
+        <option value="$PROJECT_DIR$/view/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/model/target/classes/META-INF/maven/jpublankproject/model/pom.xml" />
+        <option value="$PROJECT_DIR$/model/target/classes/META-INF/maven/jpublankproject/model/pom.properties" />
+        <option value="$PROJECT_DIR$/model/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/entity/target/classes/META-INF/maven/jpublankproject/entity/pom.xml" />
+        <option value="$PROJECT_DIR$/entity/target/classes/META-INF/maven/jpublankproject/entity/pom.properties" />
+        <option value="$PROJECT_DIR$/entity/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/contract/target/classes/META-INF/maven/jpublankproject/contract/pom.xml" />
+        <option value="$PROJECT_DIR$/contract/target/classes/META-INF/maven/jpublankproject/contract/pom.properties" />
+        <option value="$PROJECT_DIR$/contract/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/controller/target/classes/META-INF/maven/jpublankproject/controller/pom.xml" />
+        <option value="$PROJECT_DIR$/controller/target/classes/META-INF/maven/jpublankproject/controller/pom.properties" />
+        <option value="$PROJECT_DIR$/controller/target/maven-archiver/pom.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
