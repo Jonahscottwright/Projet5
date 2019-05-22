@@ -1,3 +1,7 @@
-# JPU-BlankProject
+# Projet 5 - Java - BoulderDash
 
-Base de démarrage pour le projet Jave/POO/UML des 1ières années Exia-Cesi
+Groupe de projet: 
+* Lucas : 
+* Jonah : jonahscottwright
+* Arnaud S :
+* Arnaud P :
